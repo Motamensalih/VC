@@ -2,7 +2,7 @@ import setuptools
 with open("README.md" , "r" , encoding = "utf-8") as fh:
 	long_description = fh.read()
 
-setuptools.setup(name = "MyFirstPackage" , 
+setuptools.setup(name = "MyFirstPackageMotamen" , 
 		version = "0.0.1" , 
 		author = "Motamen Salih" ,
 		author_email = "motamen.salih@hotmail.com" , 
